@@ -1,0 +1,6 @@
+{
+    "c-cpp-compile-run.skip-if-compiled": false,
+    "c-cpp-compile-run.compilerPath": "C:\\msys64\\ucrt64\\bin\\clang++.exe",
+    "C_Cpp.default.compilerPath": "C:\\msys64\\ucrt64\\bin\\clang++.exe",
+    "terminal.integrated.cwd": "C:\\Users\\Carlos Alfredo\\projects\\CODES"
+}
